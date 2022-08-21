@@ -93,9 +93,9 @@ section#img02{
 }
 
 
-footer{
+footer {
     background-image: linear-gradient(to bottom, rgb(163, 45, 45), black );
     color: white;
-    padding: 2px;
     text-align: center;
+    padding: 10px;
 }
